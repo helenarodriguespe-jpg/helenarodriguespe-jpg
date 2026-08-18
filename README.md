@@ -22,7 +22,7 @@ Este projeto tem como objetivos:
 Olá! Meu nome é Helena. Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada na área de Tecnologia da Informação. Tenho interesse em aprender programação e desenvolvimento de sistemas, buscando sempre aprimorar meus conhecimentos e desenvolver novas habilidades na área de tecnologia.
 
 #### 🛠️ Tecnologias e Conhecimentos em Desenvolvimento
-Atualmente estou estudando e desenvolvendo conhecimentos em:
+Atualmente estou estudando e hacking conhecimentos em:
 * Lógica de programação;
 * Conceitos de desenvolvimento de sistemas;
 * Markdown;
