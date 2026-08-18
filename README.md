@@ -1,4 +1,4 @@
-markdown# Olá! Meu nome é Helena 👋
+# Olá! Meu nome é Helena 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada na área de Tecnologia da Informação. Tenho grande interesse em aprender programação e desenvolvimento de sistemas, buscando sempre aprimorar meus conhecimentos e desenvolver novas habilidades na área de tecnologia.
 
