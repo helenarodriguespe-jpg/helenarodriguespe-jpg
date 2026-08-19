@@ -4,7 +4,7 @@
 ---
 
 ### 🗒️ README do Projeto
-**README Pessoal - Helena**
+
 
 #### 💡 Sobre o Projeto
 Este projeto consiste na criação de um README pessoal para apresentação do meu perfil no GitHub. O objetivo é desenvolver uma página inicial organizada, utilizando conceitos de Markdown, para apresentar minha trajetória acadêmica, meus interesses na área de Tecnologia da Informação e meus conhecimentos em desenvolvimento de sistemas.
